@@ -20,6 +20,10 @@
   margin: 0 auto;
 }
 
+img{
+  width: 100%;
+}
+
 /* Typography */
 html {
   /* 62.5% of 16px(default font size) =10px */
